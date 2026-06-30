@@ -24,5 +24,13 @@
     <footer>
         <p>Learning Web Development &copy; 2026</p>
     </footer>
+
+    <!-- Basic interactivity -->
+    <script>
+        document.getElementById('submit-btn').addEventListener('click', function() {
+            var val = document.getElementById('user-input').value;
+            if (val) alert('You entered: ' + val);
+        });
+    </script>
 </body>
 </html>
