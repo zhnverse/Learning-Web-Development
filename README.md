@@ -18,3 +18,8 @@ A beginner's journey through HTML, CSS, and JavaScript — built step by step.
 
 ## Status
 🟢 Actively learning and committing daily!
+
+## Goals
+- Complete 30 days of consistent commits.
+- Build a responsive portfolio project.
+- Master DOM manipulation.
